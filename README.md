@@ -48,14 +48,7 @@ To run this project locally, follow these steps:
    NODE_ENV=development
    ```
 
-5. **Set up environment variables: Create a .env file in the root of the project and add the following variables:**
-
-   ```
-   PORT=3000
-   NODE_ENV=development
-   ```
-
-6. **Set up environment variables: Create a .env file in the root of the project and add the following variables:**
+5. **SRun the application:**
 
    ```
    npm start
