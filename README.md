@@ -59,20 +59,24 @@ To run this project locally, follow these steps:
 ```
 Endpoint URL:
 GET /api/v1/info - Returns the developer's email, current datetime, and GitHub URL.
+
 Request:
+
 Method: GET
+
 URL: /api/v1/info
+
 Response (200 OK)
 ```
 
-1. **Response (200 OK):**
+{
+"email": "codetitan2206@gmail.com",
+"current_datetime": "2025-01-30T09:30:00Z",
+"github_url": "https://github.com/Code-Linx/HNG12-Stage0-API.git"
+}
 
 ```
-  {
-  "email": "codetitan2206@gmail.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/Code-Linx/HNG12-Stage0-API.git"
-   }
+
 ```
 
 2. **Example Usage:**
