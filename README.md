@@ -66,7 +66,12 @@ Method: GET
 
 URL: /api/v1/info
 
-Response (200 OK)
+
+
+```
+
+1. **Response (200 OK)**
+
 ```
 
 {
@@ -74,8 +79,6 @@ Response (200 OK)
 "current_datetime": "2025-01-30T09:30:00Z",
 "github_url": "https://github.com/Code-Linx/HNG12-Stage0-API.git"
 }
-
-```
 
 ```
 
