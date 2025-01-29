@@ -16,7 +16,7 @@ app.get("/api/v1/info", (req, res) => {
   const response = {
     email: "codetitan2206@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Code-Linx/HNG12-Stage0-API.git",
+    github_url: "https://github.com/Code-Linx/HNG12-Stage0-API",
   };
   res.status(200).json(response); // Send JSON response
 });
