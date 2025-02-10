@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Code-Linx/HNG12-Stage0-API.git
+   git clone https://github.com/Code-Linx/hngx-stage0-public-api.git
 
    ```
 
@@ -78,7 +78,7 @@ URL: /api/v1/info
 {
 "email": "codetitan2206@gmail.com",
 "current_datetime": "2025-01-30T09:30:00Z",
-"github_url": "https://github.com/Code-Linx/HNG12-Stage0-API.git"
+"github_url": "https://github.com/Code-Linx/hngx-stage0-public-api.git"
 }
 
 ```
@@ -96,7 +96,7 @@ b. **Response:**
 {
   "email": "codetitan2206@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/Code-Linx/HNG12-Stage0-API.git"
+  "github_url": "https://github.com/Code-Linx/hngx-stage0-public-api.git"
 }
 
 ```
